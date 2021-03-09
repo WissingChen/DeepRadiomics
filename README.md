@@ -1,7 +1,19 @@
 # DeepRadiomics
 DeepRadiomics implements a deep learning generalization of the radiomics classification model using pytorch.
 
-For more details, see full paper "<>".
+If you use this code, please cite: 
+'''
+@article{Shi2020PredictionOK,
+  title={Prediction of KRAS, NRAS and BRAF status in colorectal cancer patients with liver metastasis using a deep artificial neural network based on radiomics and semantic features.},
+  author={Ruichuan Shi and W. Chen and Bo-Wen Yang and J. Qu and Yu Cheng and Z. Zhu and Y. Gao and Q. Wang and Y. Liu and Zhi Li and Xiujuan Qu},
+  journal={American journal of cancer research},
+  year={2020},
+  volume={10 12},
+  pages={
+          4513-4526
+        }
+}
+'''
 
 ## Running Experiments
 
